@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bhargav-borah
 - 👀 I’m interested in Web Development and Artificial Intelligence
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me Email:borahbhargav974@gmail.com
+- 💞️ I’m looking to collaborate on development and machine learning, but would love to explore more
+- 📫 How to reach me Email: bhargavborah@ieee.org
 
 <!---
 bhargav-borah/bhargav-borah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
