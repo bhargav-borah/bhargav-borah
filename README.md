@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhargav-borah
 - 👀 I’m interested in Web Development and Artificial Intelligence
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on development and machine learning, but would love to explore more
+- 💞️ I’m looking to collaborate on development, but would love to explore more
 - 📫 How to reach me Email: bhargavborah@ieee.org
 
 <!---
